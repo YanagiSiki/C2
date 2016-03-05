@@ -1,0 +1,29 @@
+//呼叫function(1)
+p
+
+//呼叫function(2)
+i
+f	//front
+123,90	//學號,分數 
+
+//呼叫function(3)
+i
+b	//back
+3,70	//學號,分數 
+
+//呼叫function(4)
+d
+f	//front
+
+//呼叫function(5)
+d
+b	//back
+
+
+輸出說明：
+
+p (印出) 沒有list 印出 null
+d (刪除) 空的list 印出 error
+2,50 學號,分數
+2,50 123,90 3,70 每個node中間有空白
+
